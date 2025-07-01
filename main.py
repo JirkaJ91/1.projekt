@@ -1,3 +1,10 @@
+"""
+projekt_1.py: první projekt do Engeto Online Python Akademie
+
+autor: Jiří Jetmar
+email: jetm.jirka@gmail.com
+"""
+
 REGISTERED_USERS = {
     "bob": "123",
     "ann": "pass123",
